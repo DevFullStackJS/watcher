@@ -1,9 +1,1 @@
-.vscode/
-build/
-prebuilds/
-node_modules/
-token.txt
-.DS_Store
-.idea
-stress-test
-crash.log
+node_modules
